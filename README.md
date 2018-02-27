@@ -6,7 +6,7 @@ It's a drawing java web application, which uses such technologies:
 3.SVG format.<br>
 
 It's a group university project, which was created during subject "Software Engineering 2". <br>
-We developed this application using <strong> popular design patterns <strong> taking into account the best practices of writing code.
+We developed this application using <strong> popular design patterns </strong> taking into account the best practices of writing code.
 
 ## How to use:
 
